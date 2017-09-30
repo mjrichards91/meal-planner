@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  mealplanner:
+    image: mealplanner
+    build:
+      context: ./MealPlanner
+      dockerfile: Dockerfile

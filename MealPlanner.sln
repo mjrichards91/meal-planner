@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealPlanner", "MealPlanner\MealPlanner.csproj", "{89C0EE3E-647B-42F8-8896-AF72FD698650}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D5C6996E-D300-4BF1-9E1E-4A156B7F5377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C0EE3E-647B-42F8-8896-AF72FD698650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C0EE3E-647B-42F8-8896-AF72FD698650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C0EE3E-647B-42F8-8896-AF72FD698650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C0EE3E-647B-42F8-8896-AF72FD698650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C6996E-D300-4BF1-9E1E-4A156B7F5377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C6996E-D300-4BF1-9E1E-4A156B7F5377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C6996E-D300-4BF1-9E1E-4A156B7F5377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C6996E-D300-4BF1-9E1E-4A156B7F5377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F62B34-5220-4F11-B699-FFAE54116B00}
+	EndGlobalSection
+EndGlobal
